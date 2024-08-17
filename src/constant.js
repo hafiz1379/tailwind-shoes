@@ -4,9 +4,7 @@ import nike3 from './assets/n3-min.png';
 import nike4 from './assets/n4-min.png';
 
 export const SIZE = [38, 39, 40, 41, 42];
-
 export const QTY = [1, 2, 3, 4, 5];
-
 export const SHOE_LIST = [
   {
     id: '1',
